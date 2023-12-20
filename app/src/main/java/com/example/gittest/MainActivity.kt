@@ -24,6 +24,7 @@ class MainActivity : ComponentActivity() {
                 ) {
                     Greeting("Hello Git")
                     Greeting("Android")
+                    Greeting("Kotlin")
                 }
             }
         }
